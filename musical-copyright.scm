@@ -1,6 +1,3 @@
-;Project "Musical Copyright" follows in lawyer Damien Rihel and technologist Noah Rubins' footsteps and write a small recursive program capable of enumerating write all the songs of a given length drawn from a set of notes. The project briefly then reflect on the nature of computers, copyright, and creativity.
-; Author: Anh Thuc (Christina) Vu 
-; Date: 2022-10-12
 ; PART 1 
 (import music)
 ; all-pairs: list of pairs?
